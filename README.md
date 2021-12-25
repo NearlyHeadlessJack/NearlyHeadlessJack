@@ -6,5 +6,5 @@
 - 👯 I’m looking forward to meeting some interesting people like you.
 - 📫 How to reach me: xwang2001@foxmail.com
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=NearlyHeadlessJack&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=NearlyHeadlessJack&show_icons=false)
 
