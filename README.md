@@ -2,7 +2,7 @@
 
 Noob undergraduate
 
-[My homepage](http://nearlyheadlessjack.github.io)
+[My homepage](http://rjack.cn)
 
 
 
